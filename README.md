@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with MEAN stack<br>🌱 I’m currently Exploring my development skills as a Full stack developer<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/twinklejaiswal8485/
+🔭 I’m currently working with MERN stack<br>🌱 I’m currently Exploring my development skills as a Full stack developer<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/twinklejaiswal8485/
 
 
 ## 🌐 Socials:
